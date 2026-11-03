@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/switch-preview/_next/static/chunks/1rwh7yd5anxcp.js"
+4:"/switch-preview/_next/static/chunks/0l3p1t2fgaxhh.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container-x pb-18","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"flex flex-wrap gap-2 py-4 text-[13px] text-muted","children":[[["$","$2","/",{"children":[["$","$Lb",null,{"href":"/","className":"hover:text-ink","children":"Home"}],["$","span",null,{"aria-hidden":"true","children":"›"}]]}],["$","$2","/faq",{"children":[["$","$Lb",null,{"href":"/faq","className":"hover:text-ink","children":"Support"}],["$","span",null,{"aria-hidden":"true","children":"›"}]]}]],["$","strong",null,{"aria-current":"page","className":"font-semibold text-ink","children":"Warranty"}]]}],["$","div",null,{"className":"grid gap-5 pt-3 lg:grid-cols-[220px_1fr] lg:gap-12","children":[["$","nav",null,{"aria-label":"Support pages","className":"flex flex-wrap gap-0.5 self-start lg:sticky lg:top-[90px] lg:flex-col","children":[["$","$Lb","e-scooter-warranty",{"href":"/e-scooter-warranty","aria-current":"page","className":"rounded-xl px-3.5 py-2.5 font-medium hover:bg-cloud bg-cloud font-semibold","children":"Warranty"}],["$","$Lb","faq",{"href":"/faq","className":"rounded-xl px-3.5 py-2.5 font-medium hover:bg-cloud ","children":"FAQs"}],["$","$Lb","contact-us",{"href":"/contact-us","className":"rounded-xl px-3.5 py-2.5 font-medium hover:bg-cloud ","children":"Contact"}],["$","$Lb","corporate-orders",{"href":"/corporate-orders","className":"rounded-xl px-3.5 py-2.5 font-medium hover:bg-cloud ","children":"Corporate orders"}],["$","$Lb","riding-safely",{"href":"/riding-safely","className":"rounded-xl px-3.5 py-2.5 font-medium hover:bg-cloud ","children":"Riding safely"}],["$","$Lb","returns-policy",{"href":"/returns-policy","className":"rounded-xl px-3.5 py-2.5 font-medium hover:bg-cloud ","children":"Returns"}],["$","$Lb","terms-and-conditions",{"href":"/terms-and-conditions","className":"rounded-xl px-3.5 py-2.5 font-medium hover:bg-cloud ","children":"Terms"}],["$","$Lb","privacy-policy",{"href":"/privacy-policy","className":"rounded-xl px-3.5 py-2.5 font-medium hover:bg-cloud ","children":"Privacy"}]]}],["$","article",null,{"className":"flex max-w-[72ch] min-w-0 flex-col gap-[18px] text-ink-soft","children":[["$","h1",null,{"className":"text-[34px] leading-[1.04] font-bold tracking-[-0.04em] text-ink sm:text-[clamp(34px,4vw,52px)]","children":"Warranty"}],[["$","h2",null,{"className":"pt-2.5 text-[22px] font-semibold tracking-tight","children":"Selfie sticks"}],["$","p",null,{"children":"SS-D100, SS-D200 and SS-D300 come with a 1-year brand warranty."}],["$","h2",null,{"className":"pt-2.5 text-[22px] font-semibold tracking-tight","children":"How to claim"}],["$","p",null,{"children":["In case of any defects, contact the brand service center at ","support@justswitch.com"," with the model code."]}]]]}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"page","t":"d","k":"e-scooter-warranty","s":["fonts","product","product-category","search","shop"]},"h":65600,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Warranty | Switch"}],["$","meta","1",{"name":"description","content":"Electric rides and creator gear for the UAE."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$9"}},"a":"$@15","u":"$@16","b":"_yFhbnmXY_YTHJIc_ueKl"}
+e:null
+16:true
+9:300
+9:C
+15:0
+7:"$undefined"
+14:"$undefined"
+f:"$undefined"

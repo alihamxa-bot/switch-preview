@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[page]","\u002Fproduct-category\u002F[category]","\u002Fproduct-category\u002F[category]\u002F[type]","\u002Fproduct\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
